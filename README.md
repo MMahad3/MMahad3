@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahad Munir</h1>
-<h3 align="center">A passionate developer exploring AI, cloud computing, and quantum technologies</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1DRhxj-YVVMhKDz59Gb67j&ust=1732720863599000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjX5rim-okDFQAAAAAdAAAAABAR">
+<h3 align="center">A passionate developer exploring AI, cloud computing, and quantum technologies.</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/707a50ec-f904-4bb3-99f8-a6c623ebedf7)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmahad3&label=Profile%20views&color=0e75b6&style=flat" alt="mmahad3" /> </p>
 
 - 🔭 I’m currently working on **Anomaly detection in CCTV footages**
