@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahad Munir</h1>
 <h3 align="center">A passionate developer exploring AI, cloud computing, and quantum technologies.</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/707a50ec-f904-4bb3-99f8-a6c623ebedf7)
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/16c3c50e-92ef-4c7f-8452-30ee6e32b208)
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw3BCnSc__o4OH-mKLH0GZLv&ust=1732795658980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCrr4e9_IkDFQAAAAAdAAAAABAE)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmahad3&label=Profile%20views&color=0e75b6&style=flat" alt="mmahad3" /> </p>
 
