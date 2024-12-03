@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahad Munir
 ===================================================================================================================================
 
-Exploring New Dimensions in AI, AR, and Quantum Computing.
+Exploring New Dimensions in AI, Computer Vision, and Quantum Computing.
 ----------------------------------------------------------
 
 Hello! I’m Mahad, a passionate and driven final-year Computer Science student at FAST University, Pakistan. My journey in technology has been a blend of curiosity, creativity, and the pursuit of innovative solutions. From exploring the complexities of quantum computing to crafting intelligent systems in computer vision, I thrive at the intersection of cutting-edge research and practical implementation. My academic and professional journey has allowed me to delve into diverse areas, including cloud computing, artificial intelligence, and augmented reality.
