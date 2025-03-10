@@ -46,6 +46,9 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 </a>
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMahad3&theme=react-dark)
+
+
 
 
 
