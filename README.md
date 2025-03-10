@@ -50,3 +50,6 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMahad3&theme=react)
 
+### 💡 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
