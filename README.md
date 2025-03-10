@@ -53,3 +53,9 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 ### 💡 Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
+
+📫 **How to Reach Me**  
+[![Gmail](https://img.shields.io/badge/Gmail-mahadmunir6@gmail.com-red?style=flat&logo=gmail)](mailto:mahadmunir6@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahad%20Munir-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahad-munir)  
+[![Twitter](https://img.shields.io/badge/Twitter-MMahad3-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)  
+
