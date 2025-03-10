@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 </a>
 
 <a href="https://github.com/MMahad3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&langs_count=20&hide=Jupyter%20Notebook&theme=react&hide_border=true" alt="Top Languages" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MMahad3&label=Profile%20Views&color=0e75b6&style=flat)
