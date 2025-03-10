@@ -50,5 +50,8 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 
 
 
+### 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 
