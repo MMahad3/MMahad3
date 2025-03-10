@@ -37,17 +37,6 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 
 <b>📊 GitHub Stats</b>
 
-import { Image, View } from 'react-native';
-
-<View>
-  <Image 
-    source={{ uri: "https://github-readme-streak-stats.herokuapp.com?user=MMahad3&theme=dark&hide_border=true" }} 
-    style={{ width: 300, height: 100, resizeMode: "contain" }} 
-  />
-</View>
-
-
-
 <a href="http://www.github.com/MMahad3">
     <img src="https://github-readme-stats.vercel.app/api?username=MMahad3&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </a>
