@@ -38,8 +38,9 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 <b>📊 GitHub Stats</b>
 
 <a href="http://www.github.com/MMahad3">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMahad3&theme=react&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MMahad3&theme=dark&hide_border=true" alt="GitHub Streak" />
 </a>
+
 
 <a href="http://www.github.com/MMahad3">
     <img src="https://github-readme-stats.vercel.app/api?username=MMahad3&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" />
