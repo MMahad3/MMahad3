@@ -37,9 +37,11 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 
 <b>📊 GitHub Stats</b>
 
-<a href="http://www.github.com/MMahad3">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MMahad3&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=MMahad3&theme=dark&hide_border=true" 
+  alt="GitHub Streak" 
+  style={{ width: "100%", maxWidth: "500px" }} 
+/>
 
 
 <a href="http://www.github.com/MMahad3">
