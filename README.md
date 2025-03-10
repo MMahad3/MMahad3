@@ -14,10 +14,6 @@ Hello! I’m Mahad, a passionate and driven final-year Computer Science student 
 <a href="https://www.github.com/MMahad3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-#tyle=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-
 ### Skills
 
 
