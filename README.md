@@ -8,7 +8,7 @@ Hello! I’m Mahad, a passionate and driven final-year Computer Science student 
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [mahadmunir6@gmail.com](mailto:mahadmunir6@gmail.com)
-* 🧠  I'm learning Computer Vision Framkeworks
+* 🧠  I'm learning Computer Vision Frameworks
 * ⚡  "When I'm not coding, you’ll find me hitting the gym 💪, exploring innovative games and tech gadgets 🎮, and dreaming up the next big idea to shape the future of technology 🧠."
 
 <a href="https://www.github.com/MMahad3" target="_blank" rel="noreferrer"><img
