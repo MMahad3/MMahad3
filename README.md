@@ -45,13 +45,7 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MMahad3&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMahad3&theme=react-dark)
-
-
-
-### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 
