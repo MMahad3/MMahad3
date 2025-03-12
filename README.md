@@ -48,7 +48,8 @@ src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-b
 ![Profile Views](https://komarev.com/ghpvc/?username=MMahad3&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMahad3&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMahad3&theme=react&cache=none)
+
 
 ### 💡 Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
