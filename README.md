@@ -1,16 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahad Munir
 ===================================================================================================================================
 
-Exploring New Dimensions in AI, Computer Vision, and Quantum Computing.
-----------------------------------------------------------
+Exploring New Dimensions in AI, DevOps, and Emerging Technologies  
+---------------------------------------------------------------
 
-Hello! I’m Mahad, a passionate and driven final-year Computer Science student at FAST University, Pakistan. My journey in technology has been a blend of curiosity, creativity, and the pursuit of innovative solutions. From exploring the complexities of quantum computing to crafting intelligent systems in computer vision, I thrive at the intersection of cutting-edge research and practical implementation. My academic and professional journey has allowed me to delve into diverse areas, including cloud computing, artificial intelligence, and augmented reality.
+Hello! I’m Mahad — a passionate technologist and currently working as an **Associate DevOps Engineer at HulHub, Pakistan**. I’ve recently graduated with a Bachelor's degree in Computer Science from **FAST University, Karachi**. My journey has been fueled by curiosity, creativity, and a deep passion for solving real-world problems using cutting-edge tech.
 
-* 🌍  I'm based in Karachi, Pakistan
-* ✉️  You can contact me at [mahadmunir6@gmail.com](mailto:mahadmunir6@gmail.com)
-* 🧠  I'm learning Computer Vision Frameworks
-* ⚡  "When I'm not coding, you’ll find me hitting the gym 💪, exploring innovative games and tech gadgets 🎮, and dreaming up the next big idea to shape the future of technology 🧠."
+From experimenting with computer vision and quantum computing during my university years to building robust cloud-native infrastructures in my current role, I thrive where innovation meets execution. I'm particularly focused on cloud technologies, DevOps practices, and AI integration at scale.
 
+- 🌍 Based in Karachi, Pakistan  
+- 👨‍💻 Currently working at **HulHub** as an Associate DevOps Engineer  
+- 🎓 Graduated from **FAST - National University of Computer and Emerging Sciences**  
+- ✉️ Reach me at: [mahadmunir6@gmail.com](mailto:mahadmunir6@gmail.com)  
+- 🧠 Currently diving deeper into Kubernetes, CI/CD pipelines, and Infrastructure as Code  
+- ⚡ Outside of work, I enjoy hitting the gym 💪, exploring new games and gadgets 🎮, and brainstorming the next tech innovation 💡
+  
 <a href="https://www.github.com/MMahad3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MMahad3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
