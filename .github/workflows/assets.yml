@@ -50,7 +50,7 @@ jobs:
           username: MMahad3
           output_path: assets/trophy.svg
           theme: darkhub
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}   # needs a PAT with read:user + public_repo, not the default GITHUB_TOKEN
 
       - name: Commit and push if changed
         run: |
