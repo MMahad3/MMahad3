@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mahad%20Munir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Certified%20%7C%20Kubernetes%20%26%20AI&descAlignY=55&descSize=20" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=I+turn+unstable+infra+into+self-healing+systems;90%25+fewer+pod+crashes+%E2%80%A2+80%25+faster+audits;kubectl+apply+%E2%80%94+and+sleep+soundly+at+2AM" alt="Typing SVG" />
@@ -103,7 +103,7 @@ timeline
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MMahad3&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
+<img src="assets/trophy.svg" />
 </div>
 
 <br/>
@@ -111,10 +111,10 @@ timeline
 ## 📈 The Stats Wall
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MMahad3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="assets/stats.svg" width="49%"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=MMahad3&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="49%"/>
+<img src="assets/top-langs.svg" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMahad3&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=39FF14&point=ffffff" width="49%"/>
 </div>
 
@@ -214,6 +214,6 @@ Platform Engineering        █████████████████�
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 </div>
