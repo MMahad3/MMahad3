@@ -108,13 +108,10 @@ timeline
 
 <br/>
 
-## 📈 The Stats Wall
+## 💻 Top Languages
 
 <div align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=MMahad3&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF" width="60%"/>
-
-<img src="assets/top-langs.svg" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MMahad3&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=39FF14&point=ffffff" width="49%"/>
+<img src="assets/top-langs.svg" width="60%"/>
 </div>
 
 <br/>
