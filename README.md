@@ -1,152 +1,219 @@
-<h1 align="center">Mahad Munir</h1>
-<h3 align="center">DevOps Engineer — I turn manually-managed infrastructure into systems that heal themselves</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahad-munir"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahadmunir6@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://mmahad3.github.io"><img src="https://img.shields.io/badge/Portfolio-mmahad3.github.io-1a1a1a?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mahad%20Munir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Certified%20%7C%20Kubernetes%20%26%20AI&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=I+turn+unstable+infra+into+self-healing+systems;90%25+fewer+pod+crashes+%E2%80%A2+80%25+faster+audits;kubectl+apply+%E2%80%94+and+sleep+soundly+at+2AM" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/github/followers/MMahad3?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MMahad3&style=for-the-badge&color=blueviolet&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AWS%20CERTIFIED-DevOps%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-Shipping%20on%20Production%20Payments-39FF14?style=for-the-badge&labelColor=0D1117" />
 </p>
 
-<p align="center"><sub>Karachi, Pakistan · Currently building on payment infrastructure at TPS Worldwide</sub></p>
+<p>
+  <a href="https://www.linkedin.com/in/mahad-munir"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahadmunir6@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mmahad3.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <br/>
 
-## About
+## `> whoami`
 
-I'm an AWS Certified DevOps Engineer currently working on enterprise payment platforms at **TPS Worldwide**, where I lead the kind of infrastructure work that only gets noticed when it's *not* done well — Helm config sprawl, silent drift, deployments that break at the worst possible time.
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-Some proof, not just claims:
+```bash
+$ cat about_me.sh
 
-- Led a **Helm configuration overhaul** that made production Kubernetes deployments **90% more resistant to pod crashes**, and cut config-fix time from hours to minutes.
-- Built a **Python-based drift detection tool** comparing ConfigMaps and deployment YAMLs, cutting configuration audit time by **80–90%**.
-- Previously at HulHub Pakistan, automated Jenkins pipelines across staging/QA/prod for **10+ microservices**, cutting deployment time **60%** while sustaining **99% uptime**.
+#!/bin/bash
+echo "AWS Certified DevOps Engineer @ TPS Worldwide"
+echo "Currently: MS in AI @ IBA | BS CS @ FAST-NUCES"
+echo "Location: Karachi, Pakistan"
 
-I'm currently pursuing an **MS in Artificial Intelligence at IBA** alongside my DevOps work — which is why you'll also find ML/CV projects mixed into my repos, not just infra code.
+while true; do
+  fix_broken_infra
+  automate_the_boring_stuff
+  sleep 2AM && debug_production   # it's always 2AM somewhere
+done
+```
+
+Led a **Helm configuration overhaul** at TPS Worldwide that made production Kubernetes deployments **90% more resistant to pod crashes**. Built **Python drift-detection tooling** that cut config audit time by up to **90%**. Previously cut deployment time **60%** across **10+ microservices** at HulHub Pakistan — sustaining **99% uptime** the whole time.
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 Impact, in Numbers
+
+<div align="center">
+
+| 🔧 Helm Overhaul | 🐍 Drift Detection | ⚙️ Jenkins Automation | ☁️ Uptime Sustained |
+|:---:|:---:|:---:|:---:|
+| **90%** fewer pod crashes | **80–90%** faster audits | **60%** faster deploys | **99%** |
+| hours → minutes fix time | Python-built, in prod | 10+ microservices | HulHub production |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🧠 Experience Timeline
+
+```mermaid
+timeline
+    title Career So Far
+    Jun 2024 : ML Intern @ State Bank of Pakistan : CV for currency authentication
+    May 2025 : Associate DevOps Engineer @ HulHub : 60% faster deploys, 99% uptime
+    Feb 2026 : DevOps Engineer @ TPS Worldwide : 90% fewer pod crashes on IRIS payments
+    Aug 2026 : MS in AI @ IBA : Currently in progress
+```
 
 <br/>
 
-## Experience
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+**☁️ Cloud & Platform**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,helm,terraform&theme=dark" />
+
+**⚙️ CI/CD & Automation**
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,azure,gitlab,bash&theme=dark" />
+
+**💻 Systems & Web**
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,python,react,nodejs,typescript,ts&theme=dark" />
+
+**🤖 AI / ML** <sub>— MS in AI @ IBA</sub>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MMahad3&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
+</div>
+
+<br/>
+
+## 📈 The Stats Wall
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MMahad3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=MMahad3&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MMahad3&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=39FF14&point=ffffff" width="49%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MMahad3/MMahad3/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Animates once you add the workflow file — see setup notes below.</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 Featured Builds
 
 <table>
-<tr><td width="150"><b>Feb 2026 – Present</b></td><td>
+<tr>
+<td width="50%" valign="top">
 
-**DevOps Engineer** · TPS Worldwide
-Owns Helm standardization, CI/CD on GitHub Actions & Azure DevOps, and production Kubernetes resources for the IRIS payment platform. [Full breakdown below ↓](#-impact-highlights)
+### 🔧 Helm Overhaul + Drift Detection
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="60" align="right"/>
 
-</td></tr>
-<tr><td><b>May 2025 – Jan 2026</b></td><td>
+**Production system @ TPS Worldwide.** Replaced inconsistent Helm configs platform-wide, then built a Python tool that catches ConfigMap/YAML drift before it becomes an incident.
 
-**Associate DevOps Engineer** · HulHub Pakistan
-Automated Jenkins CI/CD for 10+ microservices, wrote Terraform modules for AWS + disaster recovery, managed Linux/Apache/Nginx production servers with CloudWatch monitoring.
+`Helm` `Kubernetes` `Python`
+> 🎯 **90%** fewer crashes · **90%** faster audits
 
-</td></tr>
-<tr><td><b>Jun 2024 – Aug 2024</b></td><td>
+</td>
+<td width="50%" valign="top">
 
-**Machine Learning Intern** · State Bank of Pakistan
-Researched CV techniques for currency note authentication; explored mobile-based detection for field use.
+### 🔵🟢 Zero-Downtime Blue-Green Deploy
+<img src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/docker-logo-compressed.png" width="60" align="right"/>
 
-</td></tr>
+Implemented blue-green deployment for a production ML web app — instant version switching, zero interruption, zero drama.
+
+`Docker` `Nginx`
+> 🎯 Zero downtime, every release
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ MERN Stack → Live on AWS
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" align="right"/>
+
+Took a full MERN app from local codebase to production using EC2, S3, and RDS — the whole journey, not just the demo.
+
+`AWS` `EC2` `S3` `RDS`
+> 🎯 Local → production, end to end
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Real-Time CCTV Anomaly Detection
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Pytorch_logo.png" width="60" align="right"/>
+
+Final Year Project. Real-time anomaly detection pipeline using CNNs + Vision Transformers on live video streams.
+
+`Python` `Flask` `ViT`
+> 🎯 Live-stream inference, not just a notebook
+
+</td>
+</tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 Impact Highlights
+## 🎯 Currently Leveling Up
 
-| What I did | Result |
-|---|---|
-| Rebuilt Helm configuration standards from scratch at TPS Worldwide | **90%** more resistant to pod crashes, fix time: hours → minutes |
-| Built Python drift-detection for ConfigMaps & deployment YAML | Config audits **80–90% faster**, far less human error |
-| Automated Jenkins pipelines across 10+ microservices at HulHub | **60% faster** deployments, **99% uptime** sustained |
-| Streamlined VM + Kubernetes provisioning via internal Deployment Hub | Fewer manual steps releasing the IRIS payment platform |
-
-<br/>
-
-## Stack
-
-**Cloud & Platform**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-</p>
-
-**CI/CD & Automation**
-<p>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-</p>
-
-**Systems & Web**
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
-
-**ML / AI** <sub>(from my MS in AI at IBA + State Bank internship)</sub>
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
+```text
+Kubernetes (CKA track)      ████████████████████░░░░  82%
+GitOps & ArgoCD             ███████████████░░░░░░░░░  62%
+AI / Deep Learning (MS-AI)  █████████████░░░░░░░░░░░  55%
+Platform Engineering        ████████████████████░░░░  80%
+```
 
 <br/>
 
-## Featured Projects
+## 🤝 How I Work
 
-**🔧 Helm Standardization & Drift Detection** — *TPS Worldwide, production*
-Replaced inconsistent, unsynced Helm configs across the platform with a standardized setup, then built a Python tool that automatically flags ConfigMap and deployment YAML drift before it causes an incident.
-`Helm` `Kubernetes` `Python` — **90% fewer pod crashes · 80–90% faster audits**
-
-**🔵🟢 Zero-Downtime Blue-Green Deployment**
-Implemented a blue-green deployment strategy for a production ML web app, enabling instant version switching with zero service interruption.
-`Docker` `Nginx`
-
-**☁️ MERN Stack on AWS**
-Took a full MERN application from local codebase to a live, production-hosted service using EC2, S3, and RDS.
-`AWS` `EC2` `S3` `RDS` `MongoDB`
-
-**👁️ Real-Time Anomaly Detection in CCTV Footage** — *Final Year Project*
-Built a real-time pipeline using CNNs and Vision Transformers to flag unusual activity in live video streams.
-`Python` `Flask` `Vision Transformers`
-
-**⚽ FIFA World Cup Predictor**
-Regression model trained on historical World Cup data to predict match outcomes.
-`Python` `Pandas` `Scikit-Learn`
+> 🧪 Infra changes ship like code — tested, reviewed, rollback-ready.
+> 🔍 I automate the audit before I automate the fix.
+> 🌙 I write configs for whoever's debugging them at 2 AM — usually me.
 
 <br/>
 
-## How I Work
+<div align="center">
 
-- I treat infrastructure changes like production code: tested, reviewed, and rollback-ready before they ship.
-- I automate the audit before I automate the fix — you can't trust a system you can't observe drifting.
-- I write configs for the engineer debugging them at 2 AM, not for the one writing them at 2 PM.
+### Let's build something that doesn't page anyone at 3 AM.
 
-<br/>
+<a href="https://www.linkedin.com/in/mahad-munir"><img src="https://img.shields.io/badge/LinkedIn-Mahad%20Munir-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:mahadmunir6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
+<a href="https://mmahad3.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
 
-## GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMahad3&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahad3&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="40%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
 
-<br/>
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahad-munir"><img src="https://img.shields.io/badge/LinkedIn-Mahad%20Munir-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mahadmunir6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://mmahad3.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=vercel" /></a>
-</p>
+</div>
