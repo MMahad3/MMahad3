@@ -22,11 +22,25 @@ jobs:
 
       - name: Generate banner (capsule-render, saved as a static file)
         run: |
-          curl -s "https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mahad%20Munir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Certified%20%7C%20Kubernetes%20%26%20AI&descAlignY=55&descSize=20" > assets/banner.svg
+          for i in 1 2 3; do
+            curl -sSL "https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mahad%20Munir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Certified%20%7C%20Kubernetes%20and%20AI&descAlignY=55&descSize=20" -o assets/banner.svg
+            if grep -q "<svg" assets/banner.svg; then echo "banner OK"; break; fi
+            echo "attempt $i failed, retrying in 10s..."; sleep 10
+          done
+          grep -q "<svg" assets/banner.svg || (echo "::error::banner.svg is not valid SVG after 3 attempts" && cat assets/banner.svg && exit 1)
+          # sanity check: make sure no unescaped & survived into the SVG text nodes
+          if grep -P '(?<!amp;)(?<!lt;)(?<!gt;)&(?!amp;|lt;|gt;|#)' assets/banner.svg | grep -q .; then
+            echo "::error::banner.svg contains an unescaped & character (invalid XML)"; cat assets/banner.svg; exit 1
+          fi
 
       - name: Generate footer banner
         run: |
-          curl -s "https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" > assets/footer.svg
+          for i in 1 2 3; do
+            curl -sSL "https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" -o assets/footer.svg
+            if grep -q "<svg" assets/footer.svg; then echo "footer OK"; break; fi
+            echo "attempt $i failed, retrying in 10s..."; sleep 10
+          done
+          grep -q "<svg" assets/footer.svg || (echo "::error::footer.svg is not valid SVG after 3 attempts" && cat assets/footer.svg && exit 1)
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1
