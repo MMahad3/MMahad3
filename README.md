@@ -100,14 +100,6 @@ timeline
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="assets/trophy.svg" />
-</div>
-
-<br/>
-
 ## 💻 Top Languages
 
 <div align="center">
