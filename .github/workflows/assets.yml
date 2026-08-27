@@ -42,14 +42,6 @@ jobs:
           done
           grep -q "<svg" assets/footer.svg || (echo "::error::footer.svg is not valid SVG after 3 attempts" && cat assets/footer.svg && exit 1)
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=MMahad3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39FF14&text_color=c9d1d9&count_private=true
-          path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1
         with:
